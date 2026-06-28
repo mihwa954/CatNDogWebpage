@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "petType": "cat",
+      "gender": "man",
+      "이름": "진심으로",
+      "나이": 20,
+      "알레르기": "소고기",
+      "병질환": "닭고기",
+      "몸무게": 20,
+      "id": "nBtQKJu1ets"
+    },
+    {
+      "petType": "dog",
+      "gender": "womon",
+      "이름": "ghghgh",
+      "나이": 10,
+      "알레르기": "몰라",
+      "병질환": "몰라",
+      "몸무게": 20,
+      "id": "u6eZReKOqbY"
+    },
+    {
+      "petType": "cat",
+      "gender": "man",
+      "이름": "dd",
+      "나이": 10,
+      "알레르기": "ff",
+      "병질환": "dd",
+      "몸무게": 12,
+      "id": "Rp7deibcbZ8"
+    },
+    {
+      "petType": "dog",
+      "gender": "womon",
+      "이름": "호호아줌마",
+      "나이": 20,
+      "알레르기": "오리고기",
+      "병질환": "코로나",
+      "몸무게": 20,
+      "id": "NpAHdnDqo2E"
+    },
+    {
+      "petType": "cat",
+      "gender": "womon",
+      "이름": "바보",
+      "나이": 20,
+      "알레르기": "소고기",
+      "병질환": "코로나",
+      "몸무게": 20,
+      "id": "wkBJ_f6uf2E"
+    },
+    {
+      "petType": "cat",
+      "gender": "man",
+      "이름": "ㅇㅇ",
+      "나이": 10,
+      "알레르기": "닭고기",
+      "병질환": "심장병",
+      "몸무게": 10,
+      "id": "wD6D_jw-A0o"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
